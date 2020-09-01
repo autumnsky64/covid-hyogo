@@ -1,0 +1,104 @@
+{
+  "lang": {
+    "en": "English",
+    "ja": "日本語",
+    "jaEasy": "やさしい にほんご",
+    "ms": "Bahasa Melayu",
+    "ne": "नेपाली",
+    "zh": "中文"
+  },
+  "siteTitle": "<ruby><rb>兵庫県</rb><rt>ひょうごけん</rt></ruby>での<ruby><rb>新</rb><rt>あたら</rt>しい コロナウイルスの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>について",
+  "siteTagline": "<ruby><rb>兵庫県</rb><rt>ひょうごけん</rt></ruby>の<rb>新</rb><rt>あたら<ruby></rt></ruby>しいコロナウイルスの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>について、グラフや<ruby><rb>地図</rb><rt>ちず</rt></ruby>で あらわしています",
+  "overview": {
+    "lastUpdated": "いちばん新<rt>あたら</rt>しく かきかえた日時<rt>にちじ</rt>",
+    "confirmedCases": "コロナウイルスか しらべた かず {0}件<rt>けん</rt>。病気<rt>びょうき</rt>の人<rt>ひと</rt>のかず",
+    "confirmedInTested": "しらべたかず {0} 件<rt>けん</rt>ごとに、ひとり が病気<rt>びょうき</rt>です",
+    "oneInPopulation": "兵庫県<rt>ひょうごけん</rt>に住<rt>す</rt>んでいる人<rt>ひと</rt>のうち {0} 人<rt>にん</rt>に ひとり がこの病気<rt>びょうき</rt>になっています",
+    "totalDeaths": "これまでに、亡<rt>な</rt>くなった人<rt>ひと</rt>のかず",
+    "totalDeathsInConfirmed": "病気<rt>びょうき</rt>の人<rt>ひと</rt> {0} 人<rt>にん</rt>に ひとり が、亡<rt>な</rt>くなっています",
+    "oneDeathInPopulation": "兵庫県<rt>ひょうごけん</rt>に住<rt>す</rt>んでいる人<rt>ひと</rt>のうち {0}人<rt>にん</rt>に ひとり が、亡<rt>な</rt>くなっています"
+  },
+  "daily": {
+    "title": "病気<rt>びょうき</rt>だとわかった人<rt>ひと</rt>のかず",
+    "female": "女<rt>おんな</rt>",
+    "male": "男<rt>おとこ</rt>"
+  },
+  "clusters": {
+    "title": "病気<rt>びょうき</rt>にかかった場所<rt>ばしょ</rt>",
+    "caseNumber": "分<rt>わ</rt>かった順番<rt>じゅんばん</rt>",
+    "cluster": "クラスター",
+    "labels": {
+      "A": "神戸市<rt>こうべし</rt>の 認定<rt>にんてい</rt>こども園<rt>えん</rt>",
+      "B": "小野市<rt>おのし</rt>の北播磨医療<rt>きた はりま いりょう</rt>センター",
+      "C": "宝塚市<rt>たからづかし</rt>の宝塚第一病院<rt>たからづか だいいち びょういん</rt>",
+      "D": "姫路市<rt>ひめじし</rt>の仁恵病院<rt>じんけい びょういん</rt>",
+      "E": "伊丹市<rt>いたみし</rt>の介護保険施設<rt>かいごほけんしせつ</rt>グリーンアルス",
+      "F": "神戸市<rt>こうべし</rt>のデイケア施設<rt>しせつ</rt>",
+      "G": "大阪市<rt>おおさかし</rt>のライブハウス",
+      "H": "海外<rt>かいがい</rt>から かえってきた人<rt>ひと</rt>",
+      "I": "そのた",
+      "J": "しらべています",
+      "K": "わかりませんでした"
+    }
+  },
+  "status": {
+    "title": "病気<rt>びょうき</rt>が重<rt>おも</rt>い人、軽<rt>かる</rt>い人<rt>ひと</rt>",
+    "labels": {
+      "nonSevere": "軽症<rt>けいしょう</rt>の人<rt>ひと</rt>のかず",
+      "severe": "重症<rt>じゅうしょう</rt>の人のかず",
+      "deaths": "亡<rt>な</rt>くなった人<rt>ひと</rt>のかず",
+      "discharged": "治<rt>なお</rt>った人<rt>ひと</rt>のかず",
+      "confirmed": "病気<rt>びょうき</rt>だと わかった人<rt>ひと</rt>すべてのかず"
+    }
+  },
+  "age": {
+    "title": "年齢<rt>ねんれい</rt>ごとの病気<rt>びょうき</rt>の人<rt>ひと</rt>",
+    "hospitalizedOrDischarged": "入院<rt>にゅういん</rt>したか 退院<rt>たいいん</rt>した人<rt>ひと</rt>のかず",
+    "deceased": "亡<rt>な</rt>くなった人<rt>ひと</rt>のかず",
+    "labels": {
+      "0": "Oさい～9さい",
+      "10": "10さい～19さい",
+      "20": "20さい～29さい",
+      "30": "30さい～39さい",
+      "40": "40さい～49さい",
+      "50": "50さい～59さい",
+      "60": "60さい～69さい",
+      "70": "70さい～79さい",
+      "80": "80さい～89さい",
+      "90": "90さい～99さい",
+      "100": "100さい以上<rt>いじょう</rt>"
+    }
+  },
+  "city": {
+    "title": "市<rt>し</rt>や町<rt>まち</rt>ごとの 病気<rt>びょうき</rt>の人<rt>ひと</rt>",
+    "tip": "丸<rt>まる</rt>マークをタップまたはカーソルを合<rt>あ</rt>わせると病気<rt>びょうき</rt>になった人<rt>ひと</rt>のかずが見<rt>み</rt>られます"
+  },
+  "footer": {
+    "caption": "In celebration of the human brain, and pasta",
+    "share": "このページを他<rt>ほか</rt>の人<rt>ひと</rt>に教<rt>おし</rt>える",
+    "dataSourcesReferences": "元<rt>もと</rt>の情報<rt>じょうほう</rt>と参考<rt>さんこう</rt>にしたサイト",
+    "references": "情報元<rt>じょうほうげん</rt>と参考<rt>さんこう</rt>サイト",
+    "inspiredBy": {
+      "text": "{0} を参考<rt>さんこう</rt>にして作<rt>つく</rt>りました。",
+      "url": "https://blog.datawrapper.de/coronaviruscharts/",
+      "blogTitle": "コロナウイルスに関<rt>かん</rt>する確<rt>たし</rt>かな情報源<rt>じょうほうげん</rt>による17のライブ・ビジュアライゼーション<rt>えいごサイト</rt>"
+    },
+    "dataFrom": {
+      "text": "兵庫県庁<rt>ひょうごけんちょう</rt>WEBサイト「{1}」の情報<rt>じょうほう</rt>をかぞえています。集計<rt>しゅうけい</rt>は {0} で しています。",
+      "spreadsheet": "Google スプレッドシート",
+      "hyogoPage": "新型<rt>しんがた</rt>コロナウイルスに感染<rt>かんせん</rt>した患者<rt>かんじゃ</rt>の発生状況<rt>はっせいじょうきょう</rt>"
+    },
+    "population": {
+      "text": "人口<rt>じんこう</rt>の引用元<rt>いんようもと</rt> {0}",
+      "wikipedia": "Wikipedia"
+    },
+    "xkcd": {
+      "text": "コミックを描<rt>か</rt>いた人<rt>ひと</rt>のサイト {0}",
+      "xkcd": "XKCD"
+    },
+    "github": {
+      "text": "プロジェクトを{0}で見<rt>み</rt>る",
+      "github": "GitHub"
+    }
+  }
+}

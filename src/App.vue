@@ -3,7 +3,7 @@
     <LocaleSwitch />
     <img alt="Hyogo logo" src="./assets/hyogo.svg" />
     <h1 class="site-title">{{ $t("siteURL") }}</h1>
-    <p class="muted">{{ $t("siteTagline") }}</p>
+    <p class="muted" v-html="$t('siteTagline')"></p>
     <Summary />
     <div class="chart-by-date">
       <ChartByDateContainer />
